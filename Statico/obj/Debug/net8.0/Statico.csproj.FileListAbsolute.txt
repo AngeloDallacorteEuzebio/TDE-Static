@@ -1,0 +1,28 @@
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\bin\Debug\net8.0\Statico.exe
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\bin\Debug\net8.0\Statico.deps.json
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\bin\Debug\net8.0\Statico.runtimeconfig.json
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\bin\Debug\net8.0\Statico.dll
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\bin\Debug\net8.0\Statico.pdb
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\obj\Debug\net8.0\Statico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\obj\Debug\net8.0\Statico.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\obj\Debug\net8.0\Statico.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\obj\Debug\net8.0\Statico.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\obj\Debug\net8.0\Statico.dll
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\obj\Debug\net8.0\refint\Statico.dll
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\obj\Debug\net8.0\Statico.pdb
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\obj\Debug\net8.0\Statico.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Statico\Statico\obj\Debug\net8.0\ref\Statico.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\bin\Debug\net8.0\Statico.exe
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\bin\Debug\net8.0\Statico.deps.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\bin\Debug\net8.0\Statico.runtimeconfig.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\bin\Debug\net8.0\Statico.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\bin\Debug\net8.0\Statico.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\obj\Debug\net8.0\Statico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\obj\Debug\net8.0\Statico.AssemblyInfoInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\obj\Debug\net8.0\Statico.AssemblyInfo.cs
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\obj\Debug\net8.0\Statico.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\obj\Debug\net8.0\Statico.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\obj\Debug\net8.0\refint\Statico.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\obj\Debug\net8.0\Statico.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\obj\Debug\net8.0\Statico.genruntimeconfig.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Statico\Statico\obj\Debug\net8.0\ref\Statico.dll
